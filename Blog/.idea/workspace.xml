@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f8b726b-8ec6-4278-9d66-9429e05fed05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/regist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/share1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myDjango/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/.idea/myDjango.iml" beforeDir="false" />
@@ -22,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/admin.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/apps.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/migrations/0001_initial.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/migrations/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/models.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/templates/blog_detail.html" beforeDir="false" />
@@ -30,7 +19,6 @@
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/tests.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/url.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/MyBlog/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myDjango/db.sqlite3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/manage.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/myDjango/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../myDjango/myDjango/settings.py" beforeDir="false" />
@@ -228,7 +216,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="225" />
     <option name="y" value="7" />
     <option name="width" value="1004" />
@@ -323,7 +311,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="225" y="7" width="1004" height="706" extended-state="1" />
+    <frame x="225" y="7" width="1004" height="706" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2542373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
