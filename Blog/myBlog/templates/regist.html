@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Regist</title>
+</head>
+<body>
+
+<h1>注册页面</h1>
+{#    # Django的form的作用：#}
+{## 1、生成html标签#}
+{## 2、用来做用户提交的验证#}
+{{ login_error }}
+<form action="{% url 'regist' %}" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {% for u in uf %}
+        {{ u.label }}:{{ u }}<br>
+    {% endfor %}
+    <input type="submit" value="OK"/>
+</form>
+{#    <a href="http://127.0.0.1:8000/login">登陆</a>#}
+
+</body>
+</html>
